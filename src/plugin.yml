@@ -1,0 +1,5 @@
+name: ConfigAPI
+version: 1.0.2
+main: com.raunak114.main.ConfigAPI
+description: Allows creating of multiple configs
+
